@@ -1,2 +1,7 @@
-# size-of-an-empty-cpp-class
-The answer will shock you...
+# How large is an EMPTY c++ class?
+
+Just compile the code and run!
+```
+$  g++ empty-class.cpp
+$  ./a.out
+```
